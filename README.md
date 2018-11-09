@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## TGD2 Card Number Searching Web App
 
-You can use the [editor on GitHub](https://github.com/tatdatpham/reactjs-es-tgdd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can search your card number, check info payment from over 31k transactions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Run code guide
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Follow this guide to run this app in local
 
-```markdown
-Syntax highlighted code block
+```
+$ git clone https://github.com/tatdatpham/reactjs-es-tgdd.git
+$ cd reactjs-es-tgdd
+$ npm install
+$ npm start
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` textt
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tatdatpham/reactjs-es-tgdd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Now you can see web app in [http://localhost:3000/](http://localhost:3000/).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/tatdatpham) and we’ll help you sort it out.
+
+### Enjoined
