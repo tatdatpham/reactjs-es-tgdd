@@ -9,6 +9,7 @@ import './App.css';
 import ReactTable from 'react-table';
 import 'react-table/react-table.css'
 import imageUrl from './images/visa.png';
+import ReactDOM from 'react-dom'
 
 const columns = [
   {
@@ -36,12 +37,15 @@ const columns = [
 //const imageUrl = "src/images/visa.png"
 
 class App extends Component {
+  componentDidMount(){
+    document.title = "TGD2 Card Number Searching"
+  }
   render() {
     return (
 
       <ReactiveBase
         app="tgdd-card"
-        url="http://elastic.munso.online:9200"
+        url="https://elastic.munso.online"
       >
         <div className="App">
 
