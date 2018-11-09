@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/reactjs-es-tgdd/static/js/runtime~main.1c6ed33a.js"
   },
   {
-    "revision": "3c9f0c50c1dfcb199f75",
-    "url": "/reactjs-es-tgdd/static/js/main.3c9f0c50.chunk.js"
+    "revision": "bc73a2c02fc766bbf79a",
+    "url": "/reactjs-es-tgdd/static/js/main.bc73a2c0.chunk.js"
   },
   {
     "revision": "e0bce4bdcb6c6e0986df",
     "url": "/reactjs-es-tgdd/static/js/1.e0bce4bd.chunk.js"
   },
   {
-    "revision": "3c9f0c50c1dfcb199f75",
+    "revision": "bc73a2c02fc766bbf79a",
     "url": "/reactjs-es-tgdd/static/css/main.e7cc6ea2.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/reactjs-es-tgdd/static/css/1.52abfdf5.chunk.css"
   },
   {
-    "revision": "6f922bd62706c736a1d99e7d54a7b495",
+    "revision": "29644b3121a90c8883895f680c26d857",
     "url": "/reactjs-es-tgdd/index.html"
   }
 ];
