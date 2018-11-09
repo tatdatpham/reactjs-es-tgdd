@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/reactjs-es-tgdd/static/js/runtime~main.1c6ed33a.js"
   },
   {
-    "revision": "bc73a2c02fc766bbf79a",
-    "url": "/reactjs-es-tgdd/static/js/main.bc73a2c0.chunk.js"
+    "revision": "b95c534c7996267f1e49",
+    "url": "/reactjs-es-tgdd/static/js/main.b95c534c.chunk.js"
   },
   {
-    "revision": "e0bce4bdcb6c6e0986df",
-    "url": "/reactjs-es-tgdd/static/js/1.e0bce4bd.chunk.js"
+    "revision": "857507fe9ae3e9f9f54a",
+    "url": "/reactjs-es-tgdd/static/js/1.857507fe.chunk.js"
   },
   {
-    "revision": "bc73a2c02fc766bbf79a",
+    "revision": "b95c534c7996267f1e49",
     "url": "/reactjs-es-tgdd/static/css/main.e7cc6ea2.chunk.css"
   },
   {
-    "revision": "e0bce4bdcb6c6e0986df",
+    "revision": "857507fe9ae3e9f9f54a",
     "url": "/reactjs-es-tgdd/static/css/1.52abfdf5.chunk.css"
   },
   {
-    "revision": "29644b3121a90c8883895f680c26d857",
+    "revision": "5aee7ce21ec7fadd5e4e646bf7c8a4dc",
     "url": "/reactjs-es-tgdd/index.html"
   }
 ];
